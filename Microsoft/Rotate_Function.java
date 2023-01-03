@@ -8,7 +8,8 @@ public class Solution {
             F += i * nums[i];
         }
         int max_val = F;
-        for (int k = 1; k < n; k++) {
+        for (int k = 1; k < n; k++) 
+        {
             F = F + sum - n * nums[n - k];
             max_val = Math.max(max_val, F);
         }
