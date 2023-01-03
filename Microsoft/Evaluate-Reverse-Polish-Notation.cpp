@@ -1,3 +1,6 @@
+// Q1
+// Runtime (10 ms) Beats 79.10%
+// Memory (11.8 MB) Beats 98.34%
 class Solution 
 {
 public:
