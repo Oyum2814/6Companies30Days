@@ -1,3 +1,6 @@
+// Q2
+// Runtime (0 ms) Beats 100%
+// Memory (39.7 MB) Beats 93.98%
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
   List<List<Integer>> combinations = new ArrayList<>();
