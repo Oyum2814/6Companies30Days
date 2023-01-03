@@ -1,6 +1,3 @@
-// Q3 
-// TIME - BEATS 92.94% 
-// MEMORY - BEATS 85.88%
 class Solution {
     public String getHint(String secret, String guess) {
         int bulls = 0;
